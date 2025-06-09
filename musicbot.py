@@ -6,7 +6,7 @@ from nextcord.ext import tasks
 from nextcord import FFmpegPCMAudio
 
 # Configuration
-TOKEN = 'MTI2NjM0NDY3NDU0OTk2MDc4NQ.GK8Q9v.FKdOT6hZKt6h8MscDj2nr0FBCXvaZFGwhbtk5E'
+TOKEN = 'yourtoken'
 FFMPEG_PATH = '/opt/homebrew/bin/ffmpeg'
 FFMPEG_OPTIONS = {
     'executable': FFMPEG_PATH,
